@@ -16,3 +16,7 @@
 
 /public/api/updatelog/*.json
 !/public/api/updatelog/.gitkeep
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
